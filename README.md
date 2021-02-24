@@ -1,6 +1,13 @@
-# Datta Able React Free Admin Template
+# [Datta Able React](https://bit.ly/33Vk0vn)
 
-Datta Able React Free Admin Template made using Bootstrap 4 framework, It is a free lite version of [Datta Able Pro](https://codedthemes.com/item/datta-able-react-free-admin-template/) Dashboard Template that makes you fulfill your Dashboard needs.
+With Datta Able dashboard template we have provided all possible prebuilt admin template layouts.  Which gives you the best selection choice of your backend template need for your projects. Comes with error/bug-free, well structured, well-commented code and regularly with all latest updated code. Which saves your large amount of developing backend application time and it is fully customizable.
+
+<br />
+
+- [Datta Able React](https://bit.ly/33Vk0vn) - product page
+- **[Datta Able React PRO](https://bit.ly/36WPxz2) - more pages & components**
+ 
+<br />
 
 ![Datta Able React Free Admin Template Preview Image](https://codedthemes.com/wp-content/uploads/edd/2019/05/datta-bootstrap-free.jpg)
 
